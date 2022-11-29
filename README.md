@@ -9,7 +9,7 @@ This workshop assumes no prior Go knowledge and experience and cover everything 
 ##### Any machine with following
 
 - [go binary](https://go.dev/dl/)
-- [vs code](https://code.visualstudio.com/) or any code editor that supports provides go extension
+- [vs code](https://code.visualstudio.com/) or any code editor that provides go extension
 - [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) (any recent version)
 
 ##### GitHub account
