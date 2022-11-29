@@ -146,3 +146,5 @@ func main() {
 	fmt.Println("Go rules?", Truth)
 }
 ```
+
+[Home](../README.md)

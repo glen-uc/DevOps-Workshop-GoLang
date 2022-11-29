@@ -10,4 +10,6 @@ Go is very powerful when it comes to concurrency. It is easier to create applica
 
 ## Advantages of Using Go
 
-![Advantages](golang.webp)
+![Advantages](advantages.png)
+
+[Home](../README.md)
